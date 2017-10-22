@@ -8,4 +8,5 @@ func main() {
 	fmt.Printf("Dette er en test!\n")
 	fmt.Printf("Dette er en test2\n")
 	fmt.Print("Dette er en test3\n")
+	fmt.Print("Hei Mina!\n")
 }
