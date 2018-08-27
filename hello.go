@@ -12,7 +12,7 @@ func main() {
 	fmt.Print("Dette er en test3\n")
 
 	for a < 10 {
-		fmt.Print("Hei Mina!\n")
+		fmt.Print("Hola, mi Amorcito!\n")
 		a = a + 1
 	}
 }
